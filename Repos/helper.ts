@@ -25,3 +25,15 @@ export async function buildTable() {
 
 }
 
+type currencyName = {
+    name: any,
+    value: {}
+}
+
+
+
+async function getFromCurrency(currencyNames: currencyName[]) {
+
+
+}
+
